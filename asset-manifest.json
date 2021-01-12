@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProxyShop/static/css/main.a2e3035b.chunk.css",
+    "main.js": "/ProxyShop/static/js/main.d70c468d.chunk.js",
+    "main.js.map": "/ProxyShop/static/js/main.d70c468d.chunk.js.map",
+    "runtime-main.js": "/ProxyShop/static/js/runtime-main.74e5c331.js",
+    "runtime-main.js.map": "/ProxyShop/static/js/runtime-main.74e5c331.js.map",
+    "static/js/2.f0ec671d.chunk.js": "/ProxyShop/static/js/2.f0ec671d.chunk.js",
+    "static/js/2.f0ec671d.chunk.js.map": "/ProxyShop/static/js/2.f0ec671d.chunk.js.map",
+    "index.html": "/ProxyShop/index.html",
+    "precache-manifest.bde01d030c2f7226d7066ba86698bad5.js": "/ProxyShop/precache-manifest.bde01d030c2f7226d7066ba86698bad5.js",
+    "service-worker.js": "/ProxyShop/service-worker.js",
+    "static/css/main.a2e3035b.chunk.css.map": "/ProxyShop/static/css/main.a2e3035b.chunk.css.map",
+    "static/js/2.f0ec671d.chunk.js.LICENSE": "/ProxyShop/static/js/2.f0ec671d.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/ProxyShop/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/ProxyShop/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e5c331.js",
+    "static/js/2.f0ec671d.chunk.js",
+    "static/css/main.a2e3035b.chunk.css",
+    "static/js/main.d70c468d.chunk.js"
+  ]
+}
